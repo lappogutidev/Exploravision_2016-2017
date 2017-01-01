@@ -1,0 +1,19 @@
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    width: 50%;
+    margin: auto;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.mainSection {}
